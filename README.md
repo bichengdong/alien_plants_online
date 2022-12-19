@@ -1,5 +1,5 @@
 # alien_plants_online
-Raw data and main R codes required for the analyses in the paper submitted to Ecological Application (# EAP22-0578) are available here.
+Data and R codes required for the analyses in the paper submitted to Ecological Application (# EAP22-0578) are available here. They have been also deposited in a publicly accessible Zenodo repository (https://doi.org/10.5281/zenodo.7451903). 
 
 File tree
 ```
